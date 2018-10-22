@@ -1,0 +1,1 @@
+# [cityks - Home page of city Krasnoslobodsk](https://cityks.github.io)
